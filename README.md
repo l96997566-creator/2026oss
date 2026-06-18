@@ -27,10 +27,10 @@ oss 기말 프로젝트
 ## 중간과정 스크린샷
 
 1. 팀원들이 각자 코드를 수정
-![팀원들 전부 push][alt text](images/image1.png)
+![팀원들 전부 push](images/image1.png)
 
 2. 충돌 발생 화면
-![dev/a 병합 중 충돌][alt text](images/image2.png)
+![dev/a 병합 중 충돌](images/image2.png)
 
 3. 충돌 해결 후 화면
 ![해결](images/image3.png)
@@ -42,13 +42,13 @@ oss 기말 프로젝트
 ![해결](images/image5.png)
 
 6. 충돌 발생 화면
-![dev/b 병합 중 충돌][alt text](images/image6.png)
+![dev/b 병합 중 충돌](images/image6.png)
 
 7. 충돌 해결 후 화면
-![해결][alt text](images/image8.png)
+![해결](images/image8.png)
 
 8. git flow
-![git flow][alt text](images/image.png)
+![git flow](images/image.png)
 
 9. 최종 프로젝트 화면
-![결과][alt text](images/image7.png)
+![결과](images/image7.png)
